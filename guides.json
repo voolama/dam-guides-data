@@ -1,14 +1,17 @@
 [
-  {
-    "title": "Test 1",
-    "url": "https://thedamrepublic.io/guides/Test%201",
-    "description": "This is the first test guide.",
-    "category": "Digital Asset Management"
-  },
-  {
-    "title": "Test 2",
-    "url": "https://thedamrepublic.io/guides/Test%202",
-    "description": "This is the second test guide.",
-    "category": "Digital Asset Management"
-  }
+    {
+        "title": "New Guide Test",
+        "url": "https://thedamrepublic.io/guides/New%20Guide%20Test",
+        "description": "This is the correct description for New Guide Test."
+    },
+    {
+        "title": "Test 1",
+        "url": "https://thedamrepublic.io/guides/Test%201",
+        "description": "This is the correct description for Test 1."
+    },
+    {
+        "title": "Test 2",
+        "url": "https://thedamrepublic.io/guides/Test%202",
+        "description": "This is the correct description for Test 2."
+    }
 ]
